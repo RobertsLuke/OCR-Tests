@@ -1,0 +1,47 @@
+B1.7 Osmosis
+
+Learning objectives
+After this topic, you should know:
+• how osmosis differs from diffusion
+• why osmosis is so important in animal cells.
+
+Study tip
+Remember, any particles can diffuse from an area of high concentration to an area of low concentration, provided they are soluble and small enough to pass through the membrane.
+
+Osmosis in organisms refers only to the diffusion of water molecules through the partially permeable cell membrane.
+
+Investigating osmosis
+You can make model cells using bags made of partially permeable membrane (see Figure 1). You can find out what happens to them if the concentrations of the solutions inside or outside the 'cell' change.
+
+Diffusion takes place when particles can spread out freely from a higher to a lower concentration. However, the solutions inside cells are separated from those outside by the cell membrane. This membrane does not let all types of particles through. Membranes that only let some types of particles through are called partially permeable membranes.
+
+How osmosis differs from diffusion
+Partially permeable cell membranes let water move across them. Remember:
+• A dilute solution of sugar contains a high concentration of water (the solvent). It has a low concentration of sugar (the solute).
+• A concentrated sugar solution contains a relatively low concentration of water and a high concentration of sugar.
+
+The cytoplasm of a cell is made up of chemicals dissolved in water inside a partially permeable cell membrane. The cytoplasm contains a fairly concentrated solution of salts and sugars. Water moves from a dilute solution (with a high concentration of water molecules) to a concentrated solution (with fewer water molecules in a given volume) across the membrane of the cell.
+
+This special type of diffusion, where only water moves across a partially permeable membrane from a dilute solution to a concentrated solution is called osmosis.
+
+Figure 1 A model of osmosis in a cell. In (a) the model cell is in a hypotonic solution. In (b) the model cell is in a hypertonic solution
+
+Components labeled in Figure 1:
+(a)
+- glass tube
+- initial level
+- concentrated sugar solution
+- water (hypotonic to cell)
+- partially permeable membrane bag
+- sugar molecules
+- water molecules
+- final level
+- water moves into the bag by osmosis
+
+(b)
+- concentrated sugar solution (hypertonic to cell)
+- water
+- partially permeable membrane bag
+- water moves out of the bag by osmosis
+
+The concentration of solutes inside your body cells needs to stay at the same level for them to work properly. However, the concentration of the solutions outside your cells may be very different to the concentration
