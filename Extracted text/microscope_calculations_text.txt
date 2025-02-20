@@ -1,0 +1,46 @@
+B1 Cell structure and transport
+
+Calculating the size of an object
+You will want to calculate the size of objects under the microscope. There is a simple formula for this, based on the magnification triangle.
+
+As long as you know or can measure two of the factors, you can find the third.
+
+magnification = size of image/size of real object
+
+For example, if you know you are working at magnification ×40, and the image of the cell you are looking at measures 1 mm, you can work out the actual diameter of the cell:
+
+size of real object = size of image/magnification
+
+so
+= 1/40 mm = 0.025 mm or 25 μm
+
+Your cell has a diameter of 25 μm.
+
+Magnifying and resolving power
+Microscopes are useful because they magnify things, making them look bigger. The height of an average person magnified by one of the best light microscopes would look about 3.5 km, and by an electron microscope about 3500 km. There is, however, a minimum distance between two objects when you can see them clearly as two separate things. If they are closer together than this, they appear as one object. Resolution is the ability to distinguish between two separate points and it is the resolving power of a microscope that affects how much detail it can show. A light microscope has a resolving power of about 200 nm, a scanning electron microscope of about 10 nm and a transmission electron microscope of about 0.2 nm – that is approximately the distance apart of two atoms in a solid substance!
+
+Figure 2 Onion cells dividing as seen through a light microscope – magnification ×570
+
+Figure 3 Chromosomes during cell division seen with a scanning electron microscope – magnification ×4500
+
+Synoptic links
+You can learn more about writing very small or very large numbers in standard form in Maths skills MS1b. For more information on cell division look at Chapter B2.
+
+Study tip
+Make sure you can work out the magnification, the size of a cell, or the size of the image depending on the information you are given.
+
+Key points
+• Light microscopes magnify up to about ×2000, and have a resolving power of about 200 nm.
+• Electron microscopes magnify up to about ×2000000, and have a resolving power of around 0.2 nm.
+• magnification = size of image/size of real object
+
+Questions:
+1. Give one advantage and one disadvantage of using:
+   a. a light microscope [2 marks]
+   b. an electron microscope. [2 marks]
+
+2. a. A student measured the diameter of a human capillary on a micrograph. The image measures 5 mm and the student knows the magnification is ×1000. How many micrometres is the diameter of the capillary? [3 marks]
+
+   b. A student is told the image of the cell has a diameter of 800 μm. The actual cell has a diameter of 20 μm. At what magnification has the cell been observed? [2 marks]
+
+3. Evaluate the use of an electron microscope and a light microscope, giving one example where each type of microscope might be used. [6 marks]
