@@ -1,0 +1,75 @@
+B1.2 Animal and plant cells
+
+Learning objectives
+After this topic, you should know:
+• the main parts of animal cells
+• the similarities and differences between plant and animal cells.
+
+Synoptic link
+You will find out more about classifying the living world in Topics B14.9 and B14.10
+
+Go further
+The ultrastructure of a cell – the details you can see under an electron microscope – includes structures such as the cytoskeleton, the Golgi apparatus, and the rough and smooth endoplasmic reticulum. They support and move the cell, modify and package proteins and lipids, and produce the chemicals that control the way your body works.
+
+Study tip
+Learn the parts of the cells shown on these diagrams, and their functions.
+
+The cells that make up your body are typical animal cells. All cells have some features in common. You can see these features clearly in animal cells.
+
+Animal cells – structure and function
+The structure and functions of the parts that make up a cell have been made clear by the electron microscope (Figure 1). You will learn more about how their structure relates to their functions as you study more about specific organ systems during your GCSE Biology course. An average animal cell is around 10-30 μm long (so it would take 100000-300000 cells to line up along the length of a metre ruler). Human beings are animals so human cells are just like most other animal cells, and you will see exactly the same structures inside them.
+
+• The nucleus – controls all the activities of the cell and is surrounded by the nuclear membrane. It contains the genes on the chromosomes that carry the instructions for making the proteins needed to build new cells or new organisms. The average diameter is around 10 μm.
+
+• The cytoplasm – a liquid gel in which the organelles are suspended and where most of the chemical reactions needed for life take place.
+
+• The cell membrane – controls the passage of substances such as glucose and mineral ions into the cell. It also controls the movement of substances such as urea or hormones out of the cell.
+
+• The mitochondria – structures in the cytoplasm where aerobic respiration takes place, releasing energy for the cell. They are very small: 1-2 μm in length and only 0.2-0.7 μm in diameter.
+
+• The ribosomes – where protein synthesis takes place, making all the proteins needed in the cell.
+
+Figure 1 Diagrams of cells are much easier to understand than the real thing seen under a microscope. This picture shows a simple animal cheek cell magnified ×1350 times under a light microscope. This is the way a model animal cell is drawn to show the main features common to most living cells
+
+Plant cells – structure and function
+Plants are very different organisms from animals. They make their own food by photosynthesis. They do not move their whole bodies about from one place to another. Plant cells are often rather bigger than animal cells – they range from 10 to 100 μm in length.
+
+Plant cells have all the features of a typical animal cell, but they also contain features that are needed for their very different functions (Figures 2 and 3).
+
+Algae are simple aquatic organisms. They also make their own food by photosynthesis and have many similar features to plant cells. For centuries they were classified as plants, but now they are classified as part of a different kingdom – the protista.
+
+All plant and algal cells have a cell wall made of cellulose that strengthens the cell and gives it support.
+
+Many (but not all) plant cells also have these other features:
+
+• Chloroplasts are found in all the green parts of a plant. They are green because they contain the green substance chlorophyll. Chlorophyll absorbs light so the plant can make food by photosynthesis. Each chloroplast is around 3-5 μm long. Root cells do not have chloroplasts because they are underground and do not photosynthesise.
+
+• A permanent vacuole is a space in the cytoplasm filled with cell sap. This is important for keeping the cells rigid to support the plant.
+
+Figure 2 Algal cells contain a nucleus and chloroplasts so that they can photosynthesise
+
+Figure 3 A plant cell has many features in common with an animal cell, as well as other features that are unique to plants
+
+Looking at cells
+Set up a microscope and observe, draw, and label examples of animal cells (e.g., cheek cells, Figure 1), algal cells (e.g., Figure 2) and plant cells (e.g., from onions or Elodea). In plant cells you should see the cell wall, the cytoplasm, and sometimes a vacuole. You will see chloroplasts in the Elodea, but not in the onion cells because they do not photosynthesise. Always show a scale magnification on your drawings.
+
+Safety: if preparing your own cheek cells, please follow safety procedures.
+
+Figure 4 Some of the common features of plant cells show up well under the light microscope. Here, the features are magnified ×40
+
+Study tip
+Remember that not all plant cells have chloroplasts.
+Do not confuse chloroplasts and chlorophyll.
+
+Key points
+• Animal cell features common to all cells – a nucleus, cytoplasm, cell membrane, mitochondria, and ribosomes.
+• Plant and algal cells contain all the structures seen in animal cells as well as a cellulose cell wall.
+• Many plant cells also contain chloroplasts and a permanent vacuole filled with sap.
+
+Questions:
+1. a Name the main structures you would expect to find in a human cell. [5 marks]
+   b Name three extra features that may be found in plant cells but not animal cells. [3 marks]
+   c Describe the main functions of these three extra structures. [3 marks]
+2. Suggest why the nucleus and the mitochondria are so important in all cells. [4 marks]
+3. Chloroplasts are found in many plant cells but not all of them.
+   Suggest two types of plant cells that are unlikely to have chloroplasts and in each case explain why they have none. [4 marks]
