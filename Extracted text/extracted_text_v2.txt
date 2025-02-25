@@ -1,0 +1,68 @@
+B 1 Cell structure and transport
+
+1.1 The world of the microscope
+
+Learning objectives
+After this topic, you should know:
+• how microscopy techniques have developed over time
+• the differences in magnification and resolution between a light microscope and an electron microscope
+• how to calculate the magnification, real size, and image size of a specimen.
+
+Living things are all made up of cells, but most cells are so small you can only see them using a microscope. It is important to grasp the units used for such tiny specimens before you start to look at them.
+
+Using units
+1 kilometre (km) = 1000 metres (m)
+1 m = 100 centimetres (cm)
+1 cm = 10 millimetres (mm)
+1 mm = 1000 micrometres (μm)
+1 μm = 1000 nanometres (nm) – so a nanometre is 0.000 000 001 metres (or written in standard form as 1 × 10⁻⁹ m).
+
+[Light microscope diagram with labeled parts: eyepiece, objective lens, stage, coarse focus, fine focus, slide, light]
+Figure 1 A light microscope
+
+The first light microscopes were developed in the mid-17th century. Their development has continued ever since and they are still widely used to look at cells. Light microscopes use a beam of light to form an image of an object and the best can magnify around 2000 times (×2000), although school microscopes usually only magnify several hundred times. They are relatively cheap, can be used almost anywhere, and can magnify live specimens (Figures 1 and 2).
+
+The invention of the electron microscope in the 1930s allowed biologists to see and understand more about the subcellular structures inside cells. These instruments use a beam of electrons to form an image and can magnify objects up to around 2 000 000 times. Transmission electron microscopes give 2D images with very high magnification and resolution. Scanning electron microscopes give dramatic 3D images but lower magnifications (Figure 3). Electron microscopes are large, very expensive, and have to be kept in special temperature, pressure, and humidity-controlled rooms.
+
+Calculating magnification
+You can calculate the magnification you are using with a light microscope very simply. You multiply the magnification of the eyepiece lens by the magnification of the objective lens. So if your eyepiece lens is ×4 and your objective lens is ×10, your overall magnification is:
+4 × 10 = ×40
+
+When you label drawings made using a microscope, make it clear that the magnification you give is the magnification at which you looked at the specimen (e.g., as viewed at ×40).
+
+Calculating the size of an object
+You will want to calculate the size of objects under the microscope. There is a simple formula for this, based on the magnification triangle.
+
+As long as you know or can measure two of the factors, you can find the third.
+
+magnification = size of image / size of real object
+
+For example, if you know you are working at magnification ×40, and the image of the cell you are looking at measures 1 mm, you can work out the actual diameter of the cell:
+
+size of real object = size of image / magnification
+
+so 
+size of real object = 1/40 mm = 0.025 mm or 25 μm
+
+Your cell has a diameter of 25 μm.
+
+[Triangle diagram showing relationship between image size, magnification, and size of real object]
+
+Figure 2 Onion cells dividing as seen through a light microscope – magnification ×570
+
+Figure 3 Chromosomes during cell division seen with a scanning electron microscope – magnification ×4500
+
+Magnifying and resolving power
+Microscopes are useful because they magnify things, making them look bigger. The height of an average person magnified by one of the best light microscopes would look about 3.5 km, and by an electron microscope about 3500 km. There is, however, a minimum distance between two objects when you can see them clearly as two separate things. If they are closer together than this, they appear as one object. Resolution is the ability to distinguish between two separate points and it is the resolving power of a microscope that affects how much detail it can show. A light microscope has a resolving power of about 200 nm, a scanning electron microscope of about 10 nm and a transmission electron microscope of about 0.2 nm – that is approximately the distance apart of two atoms in a solid substance!
+
+Synoptic links
+You can learn more about writing very small or very large numbers in standard form in Maths skills MS1b.
+For more information on cell division look at Chapter B2.
+
+Study tip
+Make sure you can work out the magnification, the size of a cell, or the size of the image depending on the information you are given.
+
+Key points
+• Light microscopes magnify up to about ×2000, and have a resolving power of about 200 nm.
+• Electron microscopes magnify up to about ×2 000 000, and have a resolving power of around 0.2 nm.
+• magnification = size of image / size of real object
